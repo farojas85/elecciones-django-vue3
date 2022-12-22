@@ -1,0 +1,15 @@
+django
+djangorestframework
+django-cors-headers
+django-environ
+django-ckeditor
+django-storages
+djoser
+psycopg2
+pillow
+mutagen
+argon2-cffi
+boto3
+markdown
+gunicorn
+whitenoise
